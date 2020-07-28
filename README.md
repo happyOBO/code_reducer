@@ -17,8 +17,8 @@
 
 ### 1. If you want to reduce your program code, you have to write ``test.sh``.
 
-- [filename] : write your file name.
-- [original program answer] : Output when running an existing program
+- **[filename]** : write your file name.
+- **[original program answer]** : Output when running an existing program
 
 ```bash
 rm -f a.out
