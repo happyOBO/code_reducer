@@ -1,3 +1,8 @@
+```
+____ ____ ___  ____    ____ ____ ___  _  _ ____ ____ ____ 
+|    |  | |  \ |___    |__/ |___ |  \ |  | |    |___ |__/ 
+|___ |__| |__/ |___    |  \ |___ |__/ |__| |___ |___ |  \ 
+```
 # code reducer
 
 ## file tree
@@ -81,6 +86,10 @@ python3 reducer.py lighttpd_bug.c ./test.sh
 ```
 $ cp lighttpd_bug.c.orig.c lighttpd_bug.c
 $ python3 reducer.py lighttpd_bug.c ./test.sh
+____ ____ ___  ____    ____ ____ ___  _  _ ____ ____ ____ 
+|    |  | |  \ |___    |__/ |___ |  \ |  | |    |___ |__/ 
+|___ |__| |__/ |___    |  \ |___ |__/ |__| |___ |___ |  \ 
+
 ORIGINAL FILE SIZE IS  29
 ./test.sh: line 3: 65049 Abort trap: 6           ./a.out
 Delete 6 group...

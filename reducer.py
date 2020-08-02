@@ -1,6 +1,9 @@
 import sys#sys.argv[i]
 import subprocess
 import itertools
+from art import *
+
+tprint("code reducer",font="cybermedum")
 
 readf = open(sys.argv[1], "r")
 ori_line = len(readf.readlines())
